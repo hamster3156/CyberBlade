@@ -24,6 +24,6 @@ StateMachineフォルダーにはAnimatorステートで管理されていない
 
 - 今回のスクリプトについて  
 AnimatorStateMachineを利用してゲーム開発を行いました。
-![image](https://github.com/user-attachments/assets/c1cf31a6-0e96-44ec-957a-a2e7ca63c92e)
+![image](https://github.com/user-attachments/assets/c1cf31a6-0e96-44ec-957a-a2e7ca63c92e)   
 Animatorの状態ごとにクラスを用意することによって、クラスの可読性と拡張性を向上させることができました。
 ![image](https://github.com/user-attachments/assets/98f52df3-36d3-4ed0-a86c-6a1feaebf6ed)
