@@ -11,15 +11,15 @@
 - 実行ファイルは以下の場所にあります  
 https://drive.google.com/drive/folders/1psDiANBRokf86vGYxsoggJJT_T5lbm8_?usp=drive_link
 
-- フォルダーの内容について
-AnimationフォルダーにはAnimationに関連するクラスが入っています。
-AnimatorStateMachineフォルダーにはAnimatorのステートで利用したクラスが入っています。
-Commonフォルダーにはエフェクトを削除するクラスが入っています。
-ControllerフォルダーにはAnimatorステートの遷移管理クラスやInputSystemの入力を管理するクラスが入っています。
-Interfaceフォルダーにはダメージやノックバックなどの処理を行うクラスが入っています。
-Managerフォルダーにはプレイヤーの攻撃入力を調整するクラスや画面のカメラ揺れなどのクラスが入っています。
-Physicsフォルダーにはプレイヤーの当たり判定関するクラスが入っています。
-StateMachineフォルダーにはAnimatorステートで管理されていない移動に関する内容のクラスが入っています。
+- フォルダーの内容について  
+AnimationフォルダーにはAnimationに関連するクラスが入っています。  
+AnimatorStateMachineフォルダーにはAnimatorのステートで利用したクラスが入っています。  
+Commonフォルダーにはエフェクトを削除するクラスが入っています。  
+ControllerフォルダーにはAnimatorステートの遷移管理クラスやInputSystemの入力を管理するクラスが入っています。  
+Interfaceフォルダーにはダメージやノックバックなどの処理を行うクラスが入っています。  
+Managerフォルダーにはプレイヤーの攻撃入力を調整するクラスや画面のカメラ揺れなどのクラスが入っています。  
+Physicsフォルダーにはプレイヤーの当たり判定関するクラスが入っています。  
+StateMachineフォルダーにはAnimatorステートで管理されていない移動に関する内容のクラスが入っています。  
 
 
 - 今回のスクリプトについて  
