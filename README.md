@@ -28,7 +28,7 @@ AnimatorStateMachineを利用してゲーム開発を行いました。
 Animatorの状態ごとにクラスを用意することによって、クラスの可読性と拡張性を向上させることができました。
 ![image](https://github.com/user-attachments/assets/98f52df3-36d3-4ed0-a86c-6a1feaebf6ed)
 
-- 今回の制作で工夫した点
+- 今回の制作で工夫した点　　
 [動画](https://github.com/user-attachments/assets/17972fd9-a9b4-486b-b329-e3c826bcd8c3)のプレイヤーが強力な攻撃を行った時に、画面を揺らす処理やボスストップ演出を作成しました。画面の揺らす処理はCinemachineのNoise機能でランダムな揺れを作成し、スクリプトで揺れの強さを調整できるように作成しました。ボスストップ演出はUnity内のtimeScaleを極端に落とすことで作成し、2つの機能を組み合わせてゲームにおける手ごたえ部分や見栄えを向上させることができました。
 
 
